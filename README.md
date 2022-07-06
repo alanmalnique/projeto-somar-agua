@@ -24,3 +24,4 @@ composer install
 ### Linux
 `
 ./vendor/bin/phpunit
+`
