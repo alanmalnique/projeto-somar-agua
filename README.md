@@ -15,12 +15,12 @@ Composer 2.3.5
 composer install
 `
 
-### Como rodar os Testes Unitarios
-# Windows
+## Como rodar os Testes Unitarios
+### Windows
 `
 .\vendor\bin\phpunit
 `
 
-# Linux
+### Linux
 `
 ./vendor/bin/phpunit
